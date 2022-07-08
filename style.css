@@ -1,0 +1,15 @@
+body{
+    padding:0;
+    margin:0;
+}
+/*.navbar .navbar-toggler .navbar-toggler-icon{
+   color: white !important;
+} */
+.fa-1x {
+    font-size: 1.5rem;
+
+}
+.navbar-toggler-icon{
+    color: #0A38F5;
+}
+
