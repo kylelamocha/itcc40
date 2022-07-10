@@ -2,14 +2,15 @@ body{
     padding:0;
     margin:0;
 }
-/*.navbar .navbar-toggler .navbar-toggler-icon{
-   color: white !important;
-} */
-.fa-1x {
-    font-size: 1.5rem;
-
+.h1{
+    margin: 15px;
+    text-align: center;  
 }
-.navbar-toggler-icon{
-    color: #0A38F5;
+.w-100{
+    background-color: #283971;
+    position: absolute;
+    left: 0;
+    right: 0;
+    width: 100%;
 }
 
